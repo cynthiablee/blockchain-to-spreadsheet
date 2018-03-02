@@ -9,7 +9,7 @@ To install this extension in your Chrome browser, you can go get it from the off
 
 [Official Chrome store install (easier for novices)](https://chrome.google.com/webstore/detail/replace-blockchain-with-s/johdgapbhomlhcflancninpeafocpopn?hl=en-US&gl=US)
 
-Or you can do a manual install from this GitHub repo (also easy!) by followng these steps:
+Or you can do a manual install from this GitHub repo (also easy!) by following these steps:
 
 1. Download this git repository to your computer by clicking "Clone or Download" and then "Download ZIP." 
 2. Unzip/extract the ZIP on your computer.
