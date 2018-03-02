@@ -5,7 +5,11 @@ WHY:
 For fun.
 
 HOW:
-To install this extension in your Chrome browser, follow these easy steps! 
+To install this extension in your Chrome browser, you can go get it from the official Chrome store (same tool, still free, fewer steps required) by going to this link:
+
+[Official Chrome store install (easier for novices)](https://chrome.google.com/webstore/detail/replace-blockchain-with-s/johdgapbhomlhcflancninpeafocpopn?hl=en-US&gl=US)
+
+Or you can do a manual install from this GitHub repo (also easy!) by followng these steps:
 
 1. Download this git repository to your computer by clicking "Clone or Download" and then "Download ZIP." 
 2. Unzip/extract the ZIP on your computer.
