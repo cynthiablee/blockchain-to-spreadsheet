@@ -11,6 +11,8 @@ To install this extension in your Chrome browser, you can go get it from the off
 
 Or you can do a manual install from this GitHub repo (also easy!) by following these steps:
 
+* Note: enabling "developer mode" extensions in your browser--as needed for manual install--is risky. Chrome may remind you to be worried about that. To avoid those pop-up warnings, use the official Chrome store install above instead of this manual install.
+
 1. Download this git repository to your computer by clicking "Clone or Download" and then "Download ZIP." 
 2. Unzip/extract the ZIP on your computer.
 3. Go to this URL in your Chrome browser: [chrome://extensions/](chrome://extensions/)
