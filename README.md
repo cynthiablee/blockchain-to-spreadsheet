@@ -1,5 +1,5 @@
 WHAT: 
-This is a Chrome browser extension that can help readers contextualize news stories with hype about blockchain technology, by reminding you that blockchain is, in essense, a giant Excel spreadsheet.
+This is a Chrome browser extension that can help readers contextualize news stories with hype about blockchain technology, by reminding you that blockchain is, in essence, a giant Excel spreadsheet.
 
 WHY:
 For fun.
