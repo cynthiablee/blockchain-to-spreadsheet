@@ -1,7 +1,7 @@
 {
 "manifest_version": 2,
     "name": "Replace Blockchain with Spreadsheet",
-    "description": "Replaces all instances of the word \"blockchain\" with the phrase \"mulitple copies of a giant Excel spreadsheet\".",
+    "description": "Replaces all instances of the word \"blockchain\" with the phrase \"multiple copies of a giant Excel spreadsheet\".",
     "version": "1.1",
     "content_scripts": [
         {
